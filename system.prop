@@ -1,0 +1,6 @@
+ro.boot.flash.locked=0
+ro.boot.vbmeta.device_state=unlocked
+ro.boot.verifiedbootstate=orange
+ro.sf.blurs_are_expensive=1
+ro.surface_flinger.supports_background_blur=1
+
