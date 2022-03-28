@@ -1,4 +1,4 @@
-# Oxygen12 Tweak by sthomsonpl
+# OxygenOS 12 Tweak by sthomsonpl
  
 - Enable Blur on QS
 - Force 120Hz
