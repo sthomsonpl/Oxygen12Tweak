@@ -10,6 +10,6 @@
 - Improve the using experience
 - Disable share usage data
 
-#Credits:
+# Credits:
 
 - @NooB9496
