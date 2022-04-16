@@ -39,3 +39,5 @@ persist.sys.purgeable_assets=1
 # Smoothens UI
 persist.service.lgospd.enable=0
 persist.service.pcsync.enable=0
+#Other
+persist.sys.opperf.enable=false
